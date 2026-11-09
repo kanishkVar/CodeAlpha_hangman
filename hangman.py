@@ -1,6 +1,3 @@
-"""CodeAlpha Python Internship - Task 1: Hangman Game
-A simple text-based Hangman game played in the console.
-"""
 
 import random
 
