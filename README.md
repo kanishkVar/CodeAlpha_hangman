@@ -1,6 +1,6 @@
 # CodeAlpha_HangmanGame
 
-Task 1 of the **CodeAlpha Python Programming Internship**.
+ **CodeAlpha Python Programming Internship**.
 
 A simple text-based Hangman game where the player guesses a word one letter at a time.
 
